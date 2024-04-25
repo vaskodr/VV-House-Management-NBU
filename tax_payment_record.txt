@@ -1,0 +1,34 @@
+Tax Payment Record:
+Date and Time: 2024-01-23T08:41:09.071862
+Building Address: Vorino 15
+Company Income from Taxes: 103.250
+Employee Salary: 44.250
+-------------------------------------
+Tax Payment Record:
+Date and Time: 2024-01-23T08:43:09.781622
+Building Address: Vorino 15
+Company Income from Taxes: 103.250
+Employee Salary: 44.250
+Total Amount: 147.500
+-------------------------------------
+Tax Payment Record:
+Date and Time: 2024-01-23T09:01:33.947384
+Building Address: Vorino 15
+Company Income from Taxes: 103.250
+Employee Salary: 44.250
+Total Amount: 147.500
+-------------------------------------
+Tax Payment Record:
+Date and Time: 2024-01-23T09:03:33.591459
+Building Address: Vorino 15
+Company Income from Taxes: 103.250
+Employee Salary: 44.250
+Total Amount: 147.500
+-------------------------------------
+Tax Payment Record:
+Date and Time: 2024-01-23T10:05:05.778997
+Building Address: Vorino 15
+Company Income from Taxes: 103.250
+Employee Salary: 44.250
+Total Amount: 147.500
+-------------------------------------
